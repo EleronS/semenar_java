@@ -10,22 +10,15 @@ public class Ex2 {
 
         Scanner scanner = new Scanner(System.in);
         int sum = 0;
-        while (true) {
-
-            int a = scanner.nextInt();
-            int b = scanner.nextInt();
-            if (a != 0 || b != 0) {
-
-                if (b < 0) {
-                    sum += a;
+        int a = scanner.nextInt();
+        while(a != 0){
+            int b = a;
+            a = scanner.nextInt();
+            if(a != 0)
+                if (b > 0 && a < 0) {
+                    sum += b;
                 }
-            }
-            else{
-                break;
-            }
-
-
-        }System.out.println(sum);
+            }System.out.println(sum);
 
     }
 }
