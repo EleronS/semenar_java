@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34d3fce7-12ea-4362-9aa7-049038e0918a" name="Changes" comment="homework">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cw1/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cw2/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cw3/Ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cw4/Ex4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cw4/model/Vector.java" afterDir="false" />
+    <list default="true" id="34d3fce7-12ea-4362-9aa7-049038e0918a" name="Changes" comment="classwork2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/cw4/Ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/cw4/Ex4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/cw4/model/Vector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/cw4/model/Vector.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +28,9 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MXc4FhbXE3lgR0YJwF49LXxZXq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -97,19 +97,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="seminar_java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="seminar_java" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Ex4" />
@@ -128,6 +115,14 @@
       <option name="presentableId" value="Default" />
       <updated>1677917176243</updated>
     </task>
+    <task id="LOCAL-00001" summary="classwork2">
+      <created>1678310172075</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678310172075</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,5 +135,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="classwork2" />
+    <option name="LAST_COMMIT_MESSAGE" value="classwork2" />
   </component>
 </project>

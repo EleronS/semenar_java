@@ -88,6 +88,24 @@ public class Vector {
 
 
     public double cosVector(Vector vector2) {
+
         return scalarMulti(vector2) / (lengthVector() * vector2.lengthVector());
+    }
+
+
+    /**
+     *
+     * @return сумма векторов
+     */
+    public Vector sumVector(Vector vector2) {
+        return new Vector(this.x + vector2.x,this.y + vector2.y,this.z + vector2.z);
+    }
+
+    /**
+     *
+     * @return разность векторов
+     */
+    public Vector diffVector(Vector vector2) {
+        return new Vector(this.x - vector2.x,this.y - vector2.y,this.z - vector2.z);
     }
 }

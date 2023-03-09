@@ -12,7 +12,8 @@ public class Ex4 {
         System.out.println("Скалярное произведение =" +vector1.scalarMulti(vector2));
         System.out.println("Векторное произведение =" +vector1.vectorMulti(vector2));
         System.out.println("Косинус угла =" +vector1.cosVector(vector2));
-        System.out.println(" ");
+        System.out.println("Сумма векторов = " +vector1.sumVector(vector2));
+        System.out.println("Разность векторов = " +vector1.diffVector(vector2));
 
 
     }
