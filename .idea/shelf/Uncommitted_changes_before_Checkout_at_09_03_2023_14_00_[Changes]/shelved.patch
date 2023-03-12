@@ -1,0 +1,14 @@
+Index: src/main/java/org/example/hm1/Ex1.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/org/example/hm1/Ex1.java b/src/main/java/org/example/hm1/Ex1.java
+new file mode 100644
+--- /dev/null	(date 1678359526089)
++++ b/src/main/java/org/example/hm1/Ex1.java	(date 1678359526089)
+@@ -0,0 +1,4 @@
++package org.example.hm1;
++
++public class Ex1 {
++}
