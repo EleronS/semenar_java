@@ -13,7 +13,7 @@ public class Ex1 {
         for (int i = 1; i < 5; i++) {
             numList.add(i);
             System.out.print(i);
-            }
+        }
         System.out.println("\nmodding");
         for (int j = numList.size(); j >=1 ; j--) {
             numList.addFirst(j);
@@ -22,5 +22,5 @@ public class Ex1 {
 
         }
 
-        }
     }
+}

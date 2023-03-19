@@ -55,10 +55,10 @@ public class Ex2 {
      * @param z значение следующей позиции по проходу
      * @return результат валидности совпадений
      */
-        public static boolean isColl ( char y, char z){
-            return y == '(' && z == ')' || y == '[' && z == ']' || y == '{' && z == '}';
-        }
+    public static boolean isColl ( char y, char z){
+        return y == '(' && z == ')' || y == '[' && z == ']' || y == '{' && z == '}';
     }
+}
 
 
 
